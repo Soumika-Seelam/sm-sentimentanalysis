@@ -1,7 +1,3 @@
-
-![pexels-diimejii-3314294](https://github.com/user-attachments/assets/7ebf82a4-df2b-44b0-a2e2-1b035899546b)
-Photo by Oladimeji Ajegbile
-
 ## **Social Media Sentiment Trends**
 
 ### **About This Project**
