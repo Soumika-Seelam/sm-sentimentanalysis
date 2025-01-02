@@ -1,2 +1,3 @@
 venv/
 env_3_11/
+.env
