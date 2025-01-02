@@ -8,4 +8,3 @@ snscrape==0.7.0.20230622
 spacy==3.8.3
 textblob==0.18.0.post0
 vaderSentiment==3.3.2
-tweepy==4.14.0
