@@ -1,11 +1,11 @@
 Title,Content,Score,Comments
-[Project] From books to presentations in 10s with AR + ML,,8375,196
-[D] A Demo from 1993 of 32-year-old Yann LeCun showing off the World's first Convolutional Network for Text Recognition,,6247,135
-[R] First Order Motion Model applied to animate paintings,,4868,109
-[D] This AI reveals how much time politicians stare at their phone at work,,4857,236
-[N] AI can turn old photos into moving Images / Link is given in the comments - You can also turn your old photo like this,,4794,230
-[D] Types of Machine Learning Papers,,4658,213
-I made a robot that punishes me if it detects that if I am procrastinating on my assignments [P],,4193,166
+[Project] From books to presentations in 10s with AR + ML,,8379,196
+[D] A Demo from 1993 of 32-year-old Yann LeCun showing off the World's first Convolutional Network for Text Recognition,,6249,135
+[R] First Order Motion Model applied to animate paintings,,4871,109
+[D] This AI reveals how much time politicians stare at their phone at work,,4854,236
+[N] AI can turn old photos into moving Images / Link is given in the comments - You can also turn your old photo like this,,4795,230
+[D] Types of Machine Learning Papers,,4652,213
+I made a robot that punishes me if it detects that if I am procrastinating on my assignments [P],,4191,166
 [D] The machine learning community has a toxicity problem,"It is omnipresent!
 
 **First** of all, the peer-review process is *broken*. Every fourth NeurIPS submission is put on arXiv. There are DeepMind researchers publicly going after reviewers who are criticizing their ICLR submission. On top of that, papers by well-known institutes that were put on arXiv are accepted at top conferences, despite the reviewers agreeing on rejection. In contrast, vice versa, some papers with a majority of accepts are overruled by the AC. (I don't want to call any names, just have a look the openreview page of this year's ICRL).
@@ -28,12 +28,12 @@ Albert Einstein was opposing the theory of [quantum mechanics](https://en.wikipe
 
 The moment we start silencing people because of their opinion is the moment scientific and societal progress dies. 
 
-Best intentions, Yusuf",3887,568
-"[Project] NEW PYTHON PACKAGE: Sync GAN Art to Music with ""Lucid Sonic Dreams""! (Link in Comments)",,3707,174
-[P] Using oil portraits and First Order Model to bring the paintings back to life,,3503,112
-[D] Convolution Neural Network Visualization - Made with Unity 3D and lots of Code / source - stefsietz (IG),,3427,75
-[P] Doing a clone of Rocket League for AI experiments. Trained an agent to air dribble the ball.,,3255,65
-[R] Speech-to-speech translation for a real-world unwritten language,,3069,213
+Best intentions, Yusuf",3895,568
+"[Project] NEW PYTHON PACKAGE: Sync GAN Art to Music with ""Lucid Sonic Dreams""! (Link in Comments)",,3711,174
+[P] Using oil portraits and First Order Model to bring the paintings back to life,,3494,112
+[D] Convolution Neural Network Visualization - Made with Unity 3D and lots of Code / source - stefsietz (IG),,3413,75
+[P] Doing a clone of Rocket League for AI experiments. Trained an agent to air dribble the ball.,,3256,65
+[R] Speech-to-speech translation for a real-world unwritten language,,3062,213
 [D] Our community must get serious about opposing OpenAI,"OpenAI was founded for the explicit purpose of democratizing access to AI and acting as a counterbalance to the closed off world of big tech by developing open source tools.
 
 They have abandoned this idea entirely.
@@ -46,15 +46,15 @@ I get it, GPT4 is incredible. However, we are talking about the single most tran
 
 We need to unify around open source development; choose companies that contribute to science, and condemn the ones that don't.
 
-This conversation will only ever get more important.",3027,451
-[P] I made a command-line tool that explains your errors using ChatGPT (link in comments),,2884,112
-[P] Using Deep Learning to draw and write with your hand and webcam 👆. The model tries to predict whether you want to have 'pencil up' or 'pencil down' (see at the end of the video). You can try it online (link in comments),,2842,60
-[R] Consistent Video Depth Estimation (SIGGRAPH 2020) - Links in the comments.,,2835,102
-"[R] [RIFE: 15FPS to 60FPS] Video frame interpolation , GPU real-time flow-based method",,2797,146
-[R] Wolfenstein and Doom Guy upscaled into realistic faces with PULSE,,2796,104
-[P] I'm using Instruct GPT to show anti-clickbait summaries on youtube videos,,2772,249
+This conversation will only ever get more important.",3029,451
+[P] I made a command-line tool that explains your errors using ChatGPT (link in comments),,2883,112
+[P] Using Deep Learning to draw and write with your hand and webcam 👆. The model tries to predict whether you want to have 'pencil up' or 'pencil down' (see at the end of the video). You can try it online (link in comments),,2845,60
+[R] Consistent Video Depth Estimation (SIGGRAPH 2020) - Links in the comments.,,2837,102
+"[R] [RIFE: 15FPS to 60FPS] Video frame interpolation , GPU real-time flow-based method",,2801,146
+[R] Wolfenstein and Doom Guy upscaled into realistic faces with PULSE,,2791,104
+[P] I'm using Instruct GPT to show anti-clickbait summaries on youtube videos,,2775,249
 [P] I made an AI twitter bot that draws people’s dream jobs for them.,,2725,74
-[D] Types of Machine Learning Papers,,2643,92
+[D] Types of Machine Learning Papers,,2642,92
 Should r/MachineLearning join the reddit blackout to protest changes to their API?,"Hello there, r/MachineLearning,
 
 Recently, Reddit has announced some [changes to their API](https://www.reddit.com/r/modnews/comments/13wshdp/api_update_continued_access_to_our_api_for/) that may have pretty serious impact on many of it's users.
@@ -69,8 +69,8 @@ In lieu of what's happening, [an open letter](https://www.reddit.com/r/ModCoord/
 
 We would like to give the community a voice in this. Is this an important enough matter that r/machinelearning should fully support the protest and blackout the subreddit on June 12th? Feel free to leave your thoughts and opinions below. 
 
-Also, please use up/downvotes for this submission to make yourself heard: upvote: r/ML should join the protest, downvote: r/ML should not join the protest.",2628,217
-[D] An example of machine learning bias on popular. Is this specific case a problem? Thoughts?,,2596,415
+Also, please use up/downvotes for this submission to make yourself heard: upvote: r/ML should join the protest, downvote: r/ML should not join the protest.",2624,217
+[D] An example of machine learning bias on popular. Is this specific case a problem? Thoughts?,,2598,415
 [D] Siraj has a new paper: 'The Neural Qubit'. It's plagiarised,"Exposed in this Twitter thread: https://twitter.com/AndrewM_Webb/status/1183150368945049605
 
 Text, figures, tables, captions, equations (even equation numbers) are all lifted from another paper with minimal changes.
@@ -79,7 +79,7 @@ Siraj's paper: http://vixra.org/pdf/1909.0060v1.pdf
 
 The original paper: https://arxiv.org/pdf/1806.06871.pdf
 
-Edit: I've chosen to expose this publicly because he has a lot of fans and currently a lot of paying customers. They really trust this guy, and I don't think he's going to change.",2567,451
+Edit: I've chosen to expose this publicly because he has a lot of fans and currently a lot of paying customers. They really trust this guy, and I don't think he's going to change.",2571,451
 [D] A Super Harsh Guide to Machine Learning,"First, read fucking Hastie, Tibshirani, and whoever. Chapters 1-4 and 7-8. If you don't understand it, keep reading it until you do. 
 
 You can read the rest of the book if you want. You probably should, but I'll assume you know all of it. 
@@ -90,11 +90,11 @@ Now forget all of that and read the deep learning book. Put tensorflow and pytor
 
 Once you do all of that, go on arXiv and read the most recent useful papers. The literature changes every few months, so keep up. 
 
-There. Now you can probably be hired most places. If you need resume filler, so some Kaggle competitions. If you have debugging questions, use StackOverflow. If you have math questions, read more. If you have life questions, I have no idea.",2570,304
-A little seasonal homage... [P],,2564,33
-[R] Neural Color Transfer between Images,,2459,90
-[R] Video of experiments from DeepMind's recent “Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning” (OP3 Soccer) project,,2444,142
-[D] Types of Machine Learning Papers,,2412,101
+There. Now you can probably be hired most places. If you need resume filler, so some Kaggle competitions. If you have debugging questions, use StackOverflow. If you have math questions, read more. If you have life questions, I have no idea.",2567,304
+A little seasonal homage... [P],,2563,33
+[R] Neural Color Transfer between Images,,2458,90
+[R] Video of experiments from DeepMind's recent “Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning” (OP3 Soccer) project,,2443,142
+[D] Types of Machine Learning Papers,,2406,101
 [P] I trained a GAN to generate photorealistic fake penises,"# This Dick Pic Does Not Exist
 
 A StyleGAN2 model to make AI-generated dicks
@@ -136,28 +136,28 @@ The images were then put into a [StyleGAN2 ](https://github.com/NVlabs/stylegan2
 
 The dataset, in case you want to see what 42,273 dick pics look like is posted in the Github.
 
-https://preview.redd.it/txq644l8w7e51.png?width=1200&format=png&auto=webp&s=bb6687c5ec53dc9454fd8bf1eec9f45af1d5f48e",2353,274
-[R] Adversarial Latent Autoencoders (CVPR2020 paper + code),,2346,98
-[D]Neural-Style-PT is capable of creating complex artworks under 20 minutes.,,2248,175
-[P] Trained an AI with ML to navigate an obstacle course from Rocket League,,2205,55
-[P] WebtoonMe Project: Selfie to Webtoon style,,2161,85
-"A demo of Stable Diffusion, a text-to-image model, being used in an interactive video editing application.",,2156,79
-"[P] Creating ""real"" versions of Pixar characters using the pixel2style2pixel framework. Process and links to more examples in comments.",,2135,136
-[P] ArcaneGAN: face portrait to Arcane style,,2063,50
-[R] VToonify: Controllable High-Resolution Portrait Video Style Transfer,,2058,87
-[R] End-to-End Referring Video Object Segmentation with Multimodal Transformers,,2026,46
-[N] [R] Google announces Dreamix: a model that generates videos when given a prompt and an input image/video.,,2022,127
-"[R] GANs N' Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!)",,2013,118
-[R] [P] AnimeGANv2 Face Portrait v2,,1997,102
-[P] Vscode extension that automatically creates a summary part of Python docstring using CodeBERT,,1980,52
-[R] Vid2Player: Controllable Video Sprites that Behave and Appear like Professional Tennis Players,,1956,46
-[P] StyleGAN2-ADA trained on cute corgi images <3,,1948,101
-"[P] I built an app that allows you to build Image Classifiers completely on your phone. Collect data, Train models, and Preview the predictions in realtime. You can also export the model/dataset to be used anywhere else. Would love some feedback.",,1928,91
-"[R][P] Runway Stable Diffusion Inpainting: Erase and Replace, add a mask and text prompt to replace objects in an image",,1874,86
-[P] DeepForSpeed: A self driving car in Need For Speed Most Wanted with just a single ConvNet to play ( inspired by nvidia ),,1872,59
+https://preview.redd.it/txq644l8w7e51.png?width=1200&format=png&auto=webp&s=bb6687c5ec53dc9454fd8bf1eec9f45af1d5f48e",2347,274
+[R] Adversarial Latent Autoencoders (CVPR2020 paper + code),,2344,98
+[D]Neural-Style-PT is capable of creating complex artworks under 20 minutes.,,2252,175
+[P] Trained an AI with ML to navigate an obstacle course from Rocket League,,2206,55
+[P] WebtoonMe Project: Selfie to Webtoon style,,2171,85
+"A demo of Stable Diffusion, a text-to-image model, being used in an interactive video editing application.",,2154,79
+"[P] Creating ""real"" versions of Pixar characters using the pixel2style2pixel framework. Process and links to more examples in comments.",,2139,136
+[P] ArcaneGAN: face portrait to Arcane style,,2066,50
+[R] VToonify: Controllable High-Resolution Portrait Video Style Transfer,,2060,87
+[R] End-to-End Referring Video Object Segmentation with Multimodal Transformers,,2028,46
+[N] [R] Google announces Dreamix: a model that generates videos when given a prompt and an input image/video.,,2030,127
+"[R] GANs N' Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!)",,2022,118
+[R] [P] AnimeGANv2 Face Portrait v2,,1999,102
+[P] Vscode extension that automatically creates a summary part of Python docstring using CodeBERT,,1982,52
+[R] Vid2Player: Controllable Video Sprites that Behave and Appear like Professional Tennis Players,,1958,46
+[P] StyleGAN2-ADA trained on cute corgi images <3,,1950,101
+"[P] I built an app that allows you to build Image Classifiers completely on your phone. Collect data, Train models, and Preview the predictions in realtime. You can also export the model/dataset to be used anywhere else. Would love some feedback.",,1930,91
+"[R][P] Runway Stable Diffusion Inpainting: Erase and Replace, add a mask and text prompt to replace objects in an image",,1870,86
+[P] DeepForSpeed: A self driving car in Need For Speed Most Wanted with just a single ConvNet to play ( inspired by nvidia ),,1864,59
 "[N] Ian Goodfellow, Apple’s director of machine learning, is leaving the company due to its return to work policy. In a note to staff, he said “I believe strongly that more flexibility would have been the best policy for my team.” He was likely the company’s most cited ML expert.",,1836,204
-[P] Toonifying a photo using StyleGAN model blending and then animating with First Order Motion. Process and variations in comments.,,1832,91
-[R] JoJoGAN: One Shot Face Stylization,,1809,52
+[P] Toonifying a photo using StyleGAN model blending and then animating with First Order Motion. Process and variations in comments.,,1839,91
+[R] JoJoGAN: One Shot Face Stylization,,1810,52
 [P] I trained a recurrent neural network trained to draw dick doodles,"# DICK-RNN
 
 A recurrent neural network trained to draw dicks.
@@ -202,11 +202,11 @@ Examples of sharable generated dick doodles:
 
 # Dataset
 
-This recurrent neural network was trained on a [dataset](https://github.com/studiomoniker/Quickdraw-appendix) of roughly 10,000 dick doodles.",1783,119
-"[P] Cross-Model Interpolations between 5 StyleGanV2 models - furry, FFHQ, anime, ponies, and a fox model",,1787,104
-[P] stablediffusion-infinity: Outpainting with Stable Diffusion on an infinite canvas,,1761,60
-[R] WHIRL algorithm: Robot performs diverse household tasks via exploration after watching one human video (link in comments),,1751,70
-[R] It’s wild to see an AI literally eyeballing raytracing based on 100 photos to create a 3d scene you can step inside ☀️ Low key getting addicted to NeRF-ing imagery datasets🤩,,1748,82
+This recurrent neural network was trained on a [dataset](https://github.com/studiomoniker/Quickdraw-appendix) of roughly 10,000 dick doodles.",1785,119
+"[P] Cross-Model Interpolations between 5 StyleGanV2 models - furry, FFHQ, anime, ponies, and a fox model",,1781,104
+[P] stablediffusion-infinity: Outpainting with Stable Diffusion on an infinite canvas,,1760,60
+[R] WHIRL algorithm: Robot performs diverse household tasks via exploration after watching one human video (link in comments),,1741,70
+[R] It’s wild to see an AI literally eyeballing raytracing based on 100 photos to create a 3d scene you can step inside ☀️ Low key getting addicted to NeRF-ing imagery datasets🤩,,1749,82
 "[P] AppleNeuralHash2ONNX: Reverse-Engineered Apple NeuralHash, in ONNX and Python","As you may already know Apple is going to implement NeuralHash algorithm for on-device [CSAM detection](https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf) soon. Believe it or not, this algorithm already exists as early as iOS 14.3, hidden under obfuscated class names. After some digging and reverse engineering on the hidden APIs I managed to export its model (which is MobileNetV3) to ONNX and rebuild the whole NeuralHash algorithm in Python. You can now try NeuralHash even on Linux!
 
 Source code: [https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX)
@@ -217,7 +217,7 @@ Early tests show that it can tolerate image resizing and compression, but not cr
 
 Hope this will help us understand NeuralHash algorithm better and know its potential issues before it's enabled on all iOS devices.
 
-Happy hacking!",1737,224
+Happy hacking!",1735,224
 [P] Realtime multihand pose estimation demo,,1726,128
 "[D] I don't really trust papers out of ""Top Labs"" anymore","I mean, I trust that the numbers they got are accurate and that they really did the work and got the results. I believe those. It's just that, take the recent ""An Evolutionary Approach to Dynamic Introduction of Tasks in Large-scale Multitask Learning Systems"" paper. It's 18 pages of talking through this pretty convoluted evolutionary and multitask learning algorithm, it's pretty interesting, solves a bunch of problems. But two notes. 
 
@@ -229,11 +229,11 @@ Strictly speaking, throwing enough compute at a general enough genetic algorithm
 
 OpenAI is far and away the worst offender here, but it seems like everyone's doing it. You throw a fuckton of compute and a light ganache of new ideas at an existing problem with existing data and existing benchmarks, and then if your numbers are infinitesimally higher than their numbers, you get to put a lil' sticker on your CV. Why should I trust that your ideas are even any good? I can't check them, I can't apply them to my own projects. 
 
-Is this really what we're comfortable with as a community? A handful of corporations and the occasional university waving their dicks at everyone because they've got the compute to burn and we don't? There's a level at which I think there should be a new journal, exclusively for papers in which you can replicate their experimental results in under eight hours on a single consumer GPU.",1692,262
-[P] I built a chatbot that lets you talk to any Github repository,,1686,156
-[R] Deep Image Analogy,,1688,119
-[P] The easiest way to process and tag video data,,1690,55
-[P] Pose Animator: SVG animation tool using real-time human perception TensorFlow.js models (links in comments),,1673,31
+Is this really what we're comfortable with as a community? A handful of corporations and the occasional university waving their dicks at everyone because they've got the compute to burn and we don't? There's a level at which I think there should be a new journal, exclusively for papers in which you can replicate their experimental results in under eight hours on a single consumer GPU.",1695,262
+[P] I built a chatbot that lets you talk to any Github repository,,1689,156
+[R] Deep Image Analogy,,1691,119
+[P] The easiest way to process and tag video data,,1683,55
+[P] Pose Animator: SVG animation tool using real-time human perception TensorFlow.js models (links in comments),,1674,31
 [D] Why can't you guys comment your fucking code?,"Seriously.
 
 I spent the last few years doing web app development. Dug into DL a couple months ago. Supposedly, compared to the post-post-post-docs doing AI stuff, JavaScript developers should be inbred peasants. But every project these peasants release, even a fucking library that colorizes CLI output, has a catchy name, extensive docs, shitloads of comments, fuckton of tests, semantic versioning, changelog, and, oh my god, better variable names than `ctx_h` or `lang_hs` or `fuck_you_for_trying_to_understand`.
@@ -253,12 +253,12 @@ Sorry for singling out, but [look at this](https://github.com/facebookresearch/e
 - Do you realize that OpenAI having needed to release a ""baseline"" TRPO implementation is a fucking disgrace to your profession?
 
 - Jesus christ, who decided to name a tensor concatenation function `cat`?
-",1656,476
-[P] YoHa: A practical hand tracking engine.,,1628,61
-[P] I made Communities: a library of clustering algorithms for network graphs (link in comments),,1609,40
-"[P] I built Adrenaline, a debugger that fixes errors and explains them with GPT-3",,1568,92
-[R] Video Demo of “Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold”,,1528,44
-[R] AI Learns Playing Basketball Just Like Humans! [https://www.youtube.com/watch?v=Rzj3k3yerDk],,1507,87
+",1655,476
+[P] YoHa: A practical hand tracking engine.,,1630,61
+[P] I made Communities: a library of clustering algorithms for network graphs (link in comments),,1616,40
+"[P] I built Adrenaline, a debugger that fixes errors and explains them with GPT-3",,1572,92
+[R] Video Demo of “Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold”,,1532,44
+[R] AI Learns Playing Basketball Just Like Humans! [https://www.youtube.com/watch?v=Rzj3k3yerDk],,1505,87
 [D] Does anybody else despise OpenAI?," I  mean, don't get me started with the closed source models they have that were trained using the work of unassuming individuals who will never  see a penny for it. Put it up on Github they said. I'm all for  open-source, but when a company turns around and charges you for a  product they made with freely and publicly made content, while forbidding you from using the output to create competing models, that is where I  draw the line. It is simply ridiculous. 
 
 Sam Altman couldn't be anymore predictable with his recent attempts to get the government to start regulating AI.
@@ -271,7 +271,7 @@ This  is not a doomer post, as I am all in favor of the advancement of AI.  Howe
 
 If  we don't take action now, a company like ClosedAI will, and they are  not in favor of the common folk. Sam Altman is so calculated to the  point where there were times when he seemed to be shooting OpenAI in the foot during his talk.  This move is to simply conceal his real intentions, to climb the ladder and take it with him. If he didn't include his company in his  ramblings, he would be easily read. So instead, he pretends to be scared of his own product, in an effort to legitimize his claim. Don't fall  for it.
 
-They are slowly making a  reputation as one the most hated tech companies, right up there with  Adobe, and they don't show any sign of change. They have no moat,  othewise they wouldn't feel so threatened to the point where they would have to resort to creating barriers of entry via regulation. This only  means one thing, we are slowly catching up. We just need someone to  vouch for humanity's well-being, while acting as an opposing force to the  evil corporations who are only looking out for themselves. Question is,  who would be a good candidate?",1497,427
+They are slowly making a  reputation as one the most hated tech companies, right up there with  Adobe, and they don't show any sign of change. They have no moat,  othewise they wouldn't feel so threatened to the point where they would have to resort to creating barriers of entry via regulation. This only  means one thing, we are slowly catching up. We just need someone to  vouch for humanity's well-being, while acting as an opposing force to the  evil corporations who are only looking out for themselves. Question is,  who would be a good candidate?",1491,427
 [D] The current and future state of AI/ML is shockingly demoralizing with little hope of redemption,"I recently encountered the PaLM (Scaling Language Modeling with Pathways) paper from Google Research and it opened up a can of worms of ideas I’ve felt I’ve intuitively had for a while, but have been unable to express – and I know I can’t be the only one. Sometimes I wonder what the original pioneers of AI – Turing, Neumann, McCarthy, etc. – would think if they could see the state of AI that we’ve gotten ourselves into. 67 authors, 83 pages, 540B parameters in a model, the internals of which no one can say they comprehend with a straight face, 6144 TPUs in a commercial lab that no one has access to, on a rig that no one can afford, trained on a volume of data that a human couldn’t process in a lifetime, 1 page on ethics with the same ideas that have been rehashed over and over elsewhere with no attempt at a solution – bias, racism, malicious use, etc. – for purposes that who asked for?
 
 When I started my career as an AI/ML research engineer 2016, I was most interested in two types of tasks – 1.) those that most humans could do but that would universally be considered tedious and non-scalable. I’m talking image classification, sentiment analysis, even document summarization, etc. 2.) tasks that humans lack the capacity to perform as well as computers for various reasons – forecasting, risk analysis, game playing, and so forth. I still love my career, and I try to only work on projects in these areas, but it’s getting harder and harder.
@@ -292,19 +292,19 @@ Even assuming that none of what I’ve described here happens to such an extent,
 
 &#x200B;
 
-EDIT: Day after posting this -- this post took off way more than I expected. Even if I received 20 - 25 comments, I would have considered that a success, but this went much further. Thank you to each one of you that has read this post, even more so if you left a comment, and triply so for those who gave awards! I've read almost every comment that has come in (even the troll ones), and am truly grateful for each one, including those in sharp disagreement. I've learned much more from this discussion with the sub than I could have imagined on this topic, from so many perspectives. While I will try to reply as many comments as I can, the sheer comment volume combined with limited free time between work and family unfortunately means that there are many that I likely won't be able to get to. That will invariably include some that I would love respond to under the assumption of infinite time, but I will do my best, even if the latency stretches into days. Thank you all once again!",1482,400
-"[R] Clova AI Research's StarGAN v2 (CVPR 2020 + code, pre-trained models, datasets)",,1479,59
-[Project] From any text-dataset to valuable insights in seconds with Texthero,,1475,79
-"[N] [P] Google Deepmind released an album with ""visualizations of AI"" to combat stereotypical depictions of glowing brains, blue screens, etc.",,1467,131
-[R] SIMPLERECON — 3D Reconstruction without 3D Convolutions — 73ms per frame !,,1415,35
-[P] Keras Implementation of Image Outpaint,,1413,89
-[News] New Google tech - Geospatial API uses computer vision and machine learning to turn 15 years of street view imagery into a 3d canvas for augmented reality developers,,1403,38
-[R] RigNet: Neural Rigging for Articulated Characters,,1400,37
+EDIT: Day after posting this -- this post took off way more than I expected. Even if I received 20 - 25 comments, I would have considered that a success, but this went much further. Thank you to each one of you that has read this post, even more so if you left a comment, and triply so for those who gave awards! I've read almost every comment that has come in (even the troll ones), and am truly grateful for each one, including those in sharp disagreement. I've learned much more from this discussion with the sub than I could have imagined on this topic, from so many perspectives. While I will try to reply as many comments as I can, the sheer comment volume combined with limited free time between work and family unfortunately means that there are many that I likely won't be able to get to. That will invariably include some that I would love respond to under the assumption of infinite time, but I will do my best, even if the latency stretches into days. Thank you all once again!",1474,400
+"[R] Clova AI Research's StarGAN v2 (CVPR 2020 + code, pre-trained models, datasets)",,1474,59
+[Project] From any text-dataset to valuable insights in seconds with Texthero,,1473,79
+"[N] [P] Google Deepmind released an album with ""visualizations of AI"" to combat stereotypical depictions of glowing brains, blue screens, etc.",,1465,131
+[R] SIMPLERECON — 3D Reconstruction without 3D Convolutions — 73ms per frame !,,1421,35
+[P] Keras Implementation of Image Outpaint,,1408,89
+[News] New Google tech - Geospatial API uses computer vision and machine learning to turn 15 years of street view imagery into a 3d canvas for augmented reality developers,,1406,38
+[R] RigNet: Neural Rigging for Articulated Characters,,1402,37
 [D] Anyone else witnessing a panic inside NLP orgs of big tech companies?,"I'm in a big tech company working along side a science team for a product you've all probably used. We have these year long initiatives to productionalize ""state of the art NLP models"" that are now completely obsolete in the face of GPT-4. I think at first the science orgs were quiet/in denial. But now it's very obvious we are basically working on worthless technology. And by ""we"", I mean a large organization with scores of teams. 
 
 Anyone else seeing this? What is the long term effect on science careers that get disrupted like this? Whats even more odd is the ego's of some of these science people
 
-Clearly the model is not a catch all, but still",1371,482
+Clearly the model is not a catch all, but still",1373,482
 "[D] Siraj Raval - Potentially exploiting students, banning students asking for refund. Thoughts?","I'm not a personal follower of Siraj, but this issue came up in a ML FBook group that I'm part of. I'm curious to hear what you all think.
 
 It appears that Siraj recently offered a course ""Make Money with Machine Learning"" with a registration fee but did not follow through with promises made in the initial offering of the course. On top of that, he created a refund and warranty page with information regarding the course *after* people already paid. Here is a link to a WayBackMachine captures of u/klarken's documentation of Siraj's potential misdeeds: [case for a refund](https://web.archive.org/save/https://case-for-a-refund.s3.us-east-2.amazonaws.com/feedback.html), [discussion in course Discord](https://web.archive.org/web/20190923211614/https://case-for-a-refund.s3.us-east-2.amazonaws.com/reference_messages.png), [\~1200 individuals in the course](https://web.archive.org/web/20190923211815/https://case-for-a-refund.s3.us-east-2.amazonaws.com/members.png), [Multiple Slack channel discussion, students hidden from each other](https://web.archive.org/web/20190923211940/https://case-for-a-refund.s3.us-east-2.amazonaws.com/multiple_slack_channels.png), [""Hundreds refunded""](https://web.archive.org/web/20190923212113/https://case-for-a-refund.s3.us-east-2.amazonaws.com/hundreds_refunded.png)
@@ -333,8 +333,8 @@ If you were/are a student in the course and have your own documentation of your 
 
 &#x200B;
 
-https://preview.redd.it/i75r44bku7o31.jpg?width=347&format=pjpg&auto=webp&s=ec2f02ee1998e27ea00d529ffb2086657dc60d77",1349,468
-[P] Predict your political leaning from your reddit comment history! (Webapp linked in comments),,1357,188
+https://preview.redd.it/i75r44bku7o31.jpg?width=347&format=pjpg&auto=webp&s=ec2f02ee1998e27ea00d529ffb2086657dc60d77",1358,468
+[P] Predict your political leaning from your reddit comment history! (Webapp linked in comments),,1352,188
 "So long r/MachineLearning, it's been an interesting few years","Some of you may recognize me, most of you probably don't. I've been the most active moderator of r/MachineLearning for a few years now, but on June 30th I'll be deleting my Reddit account.
 
 I pretty much exclusively used Apollo to moderate. It would notify me of any new post, which allowed me to moderate from anywhere, anytime. That's how I stayed on top of moderating such a large sub.
@@ -345,7 +345,7 @@ Of course, this is the internet, and each of you have your own subjective view o
 
 If you want to join me, I'll be moving on to kbin where I'm a moderator for [m/machinelearning](https://kbin.social/m/machinelearning). Otherwise, this is my farewell.
 
-P.S. I'm sure there will be some who are sympathetic and some who just have an axe to grind and will complain about anything. I'm not a piñata; there's no prize inside if you bash me, but if you just can't help yourself, then have at it. I'll be gone soon anyway.",1321,90
+P.S. I'm sure there will be some who are sympathetic and some who just have an axe to grind and will complain about anything. I'm not a piñata; there's no prize inside if you bash me, but if you just can't help yourself, then have at it. I'll be gone soon anyway.",1319,90
 [R] AlphaFold 2,"Seems like DeepMind just caused the ImageNet moment for protein folding.
 
 Blog post isn't that deeply informative yet (paper is promised to appear soonish). Seems like the improvement over the first version of AlphaFold is mostly usage of transformer/attention mechanisms applied to residue space and combining it with the working ideas from the first version. Compute budget is surprisingly moderate given how crazy the results are. Exciting times for people working in the intersection of molecular sciences and ML :)
@@ -359,11 +359,11 @@ DeepMind BlogPost
 
 UPDATE:   
 Nature published a comment on it as well  
-[https://www.nature.com/articles/d41586-020-03348-4](https://www.nature.com/articles/d41586-020-03348-4)",1323,240
-[P] Generative Ramen,,1311,76
-[P] Run Stable Diffusion locally with a web UI + artist workflow video,,1307,53
-"[D] If you had to show one paper to someone to show that machine learning is beautiful, what would you choose? (assuming they're equipped to understand it)",,1309,278
-[Project] These plants do not exist - Using StyleGan2,,1309,26
+[https://www.nature.com/articles/d41586-020-03348-4](https://www.nature.com/articles/d41586-020-03348-4)",1317,240
+[P] Generative Ramen,,1316,76
+[P] Run Stable Diffusion locally with a web UI + artist workflow video,,1306,53
+"[D] If you had to show one paper to someone to show that machine learning is beautiful, what would you choose? (assuming they're equipped to understand it)",,1307,278
+[Project] These plants do not exist - Using StyleGan2,,1304,26
 AMA: We are the Google Brain team. We'd love to answer your questions about machine learning.,"We’re a group of research scientists and engineers that work on the [Google Brain team](http://g.co/brain).  Our group’s mission is to make intelligent machines, and to use them to improve people’s lives.  For the last five years, we’ve conducted research and built systems to advance this mission.
 
 We disseminate our work in multiple ways:
@@ -406,10 +406,10 @@ Edit (~10 AM Pacific time): A number of us are gathered in Mountain View, San Fr
 
 Edit2: We're back from lunch.  Here's [our AMA command center](http://imgur.com/gallery/zHkoC)
 
-Edit3: (2:45 PM Pacific time): We're mostly done here.  Thanks for the questions, everyone!  We may continue to answer questions sporadically throughout the day.",1309,791
-[P] I made a browser extension that uses ChatGPT to answer every StackOverflow question,,1308,133
+Edit3: (2:45 PM Pacific time): We're mostly done here.  Thanks for the questions, everyone!  We may continue to answer questions sporadically throughout the day.",1305,791
+[P] I made a browser extension that uses ChatGPT to answer every StackOverflow question,,1304,133
 [P] Landing the Falcon booster with Reinforcement Learning in OpenAI,,1292,55
-[P] Football Player 3D Pose Estimation using YOLOv7,,1285,44
+[P] Football Player 3D Pose Estimation using YOLOv7,,1289,44
 "[N] 4 Months after Siraj was caught scamming he has still not refunded any victims based in India, Philippines, or any other countries with no legal recourse. He makes an apology video, and when his victims ask for their refund, his followers respond with ""Be kind. He's asking for your forgiveness""","This is fucking sick..
 
 People based in India, the Philippines, and other countries that do not have the resources to go after Siraj legally are those who need the money the most. 200$ could be a months worth of salary, or several months. And the types of people who get caught up in the scams are those who genuinely looking to improve their financial situation and work hard for it. This is fucking **cruel**. 
@@ -418,9 +418,9 @@ I'm having a hard time believing Siraj's followers are that brainwashed. Most li
 
 https://i.imgur.com/6cUhQDO.png
 
-https://i.imgur.com/TDx5ELA.png",1289,174
-"[D] The ""it"" in AI models is really just the dataset?",,1285,275
-[N]: Dall-E 2 Explained,,1279,68
+https://i.imgur.com/TDx5ELA.png",1286,174
+"[D] The ""it"" in AI models is really just the dataset?",,1283,275
+[N]: Dall-E 2 Explained,,1278,68
 [P] OpenAssistant - The world's largest open-source replication of ChatGPT,"We’re excited to announce the release of OpenAssistant.
 
 The future of AI development depends heavily on high quality datasets and models being made publicly available, and that’s exactly what this project does.
@@ -437,8 +437,8 @@ With over 600k human-generated data points covering a wide range of topics and s
 
 To make things even better, we are making this entire dataset free and accessible to all who wish to use it. Check it out today at our HF org: OpenAssistant
 
-On top of that, we've trained very powerful models that you can try right now at: [open-assistant.io/chat](https://open-assistant.io/chat) !",1268,174
-[P] YOLOv4 — The most accurate real-time neural network on MS COCO Dataset,,1260,74
-[P] Real-time Mask RCNN using Facebook Detectron,,1255,84
-[R] First open source text to video 1.7 billion parameter diffusion model is out,,1245,86
-[N] new SNAPCHAT feature transfers an image of an upper body garment in realtime on a person in AR,,1233,46
+On top of that, we've trained very powerful models that you can try right now at: [open-assistant.io/chat](https://open-assistant.io/chat) !",1273,174
+[P] YOLOv4 — The most accurate real-time neural network on MS COCO Dataset,,1252,74
+[P] Real-time Mask RCNN using Facebook Detectron,,1256,84
+[R] First open source text to video 1.7 billion parameter diffusion model is out,,1242,86
+[N] new SNAPCHAT feature transfers an image of an upper body garment in realtime on a person in AR,,1240,46
