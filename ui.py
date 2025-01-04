@@ -87,8 +87,6 @@ st.header("Word Cloud")
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
-st.header("Word Cloud")
-
 text = " ".join(title for title in df["Title"])
 wordcloud = WordCloud(width=1100, height=100, background_color="white").generate(text)
 
