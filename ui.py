@@ -35,24 +35,67 @@ with col2:
 with col3:
     st.metric("Average Sentiment", round(df["Sentiment"].mean(), 2))
 
-# Dataset Overview
-st.header("Dataset Overview")
-st.write("A quick look at the dataset:")
-st.dataframe(df.head())
+st.header("Explore Dataset")
+
+# Create a dropdown menu with column options
+column_to_view = st.selectbox(
+    "Select a column to filter by:",
+    options=["All Data"] + list(df.columns),
+)
+
+# Slider to select dataset row number view
+num_rows = st.slider(
+    "Number of rows to display:",
+    min_value=5, 
+    max_value=len(df), 
+    value=10,
+    step=5
+)
+
+if column_to_view == "All Data":
+    st.write("Showing the entire dataset:")
+    st.dataframe(df.head(num_rows))
+else:
+    st.write(f"Showing data for column: {column_to_view}")
+    st.dataframe(df[[column_to_view]].head(num_rows))
+
 
 # Sentiment distribution bar chart
 st.header("Sentiment Distribution")
 sentiment_counts = df["Sentiment_Category"].value_counts()
 st.bar_chart(sentiment_counts)
 
+# Heatmap
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+st.header("Feature Correlation Heatmap")
+correlation = df[["Score", "Comments", "Sentiment"]].corr()
+
+fig, ax = plt.subplots()
+sns.heatmap(correlation, annot=True, cmap="coolwarm", ax=ax)
+st.pyplot(fig)
+
+
 # Word Cloud
 from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+
+st.header("Word Cloud")
+
+# Word Cloud
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+
+st.header("Word Cloud")
 
 text = " ".join(title for title in df["Title"])
-wordcloud = WordCloud(width=800, height=400, background_color="white").generate(text)
+wordcloud = WordCloud(width=1100, height=100, background_color="white").generate(text)
 
-plt.figure(figsize=(10, 5))
-plt.imshow(wordcloud, interpolation="bilinear")
-plt.axis("off")
-plt.show()
+fig, ax = plt.subplots(figsize=(10, 5))
+ax.imshow(wordcloud, interpolation="bilinear")
+ax.axis("off")
+
+st.pyplot(fig)
+
 
