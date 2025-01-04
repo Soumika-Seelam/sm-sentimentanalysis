@@ -5,6 +5,8 @@ Have you ever wondered how people feel about trending topics, brands, or events 
 
 ---
 
+🚀 **Live Dashboard**: [View the Streamlit App](https://sm-sentimentanalysis.streamlit.app)
+
 ### **What You’ll Find Here**
 - **Data Cleaning**: Removing the clutter like URLs, hashtags, and emojis to get to the heart of the conversation.
 - **Sentiment Analysis**: Using tools like VADER and TextBlob to measure how positive, neutral, or negative posts are.
