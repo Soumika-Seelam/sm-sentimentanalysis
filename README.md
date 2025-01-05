@@ -1,4 +1,5 @@
 # **Social Media Sentiment Trends**
+Soumika Seelam
 
 ## **About This Project**
 How does social media reflect public sentiment about trending topics, brands, or major events? This project efficiently analyzes sentiment trends using data from platforms like Reddit, to show how the public reviews and reacts to global events and ideas. 
