@@ -44,8 +44,13 @@ This project is built with user-friendliness in mind while being flexible for ad
    ```
 2. **Create Virtual Environment**:
    ```bash
-   # Localize Imports and Downloads to Avoid Dependency Errors
-   
+   # for Mac/Linux
+   python3 -m venv venv
+   source venv/bin/activate
+
+   # for Windows
+   python -m venv venv
+   venv\Scripts\activate
    ```
 3. **Install the Tools**:
    ```bash
