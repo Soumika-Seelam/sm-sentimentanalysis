@@ -1,19 +1,18 @@
 # **Social Media Sentiment Trends**
-Soumika Seelam
 
 ## **About This Project**
 How does social media reflect public sentiment about trending topics, brands, or major events? This project efficiently analyzes sentiment trends using data from platforms like Reddit, to show how the public reviews and reacts to global events and ideas. 
 
 ---
 
-🚀 **Live Dashboard**: [Check Out the Streamlit App](https://sm-sentimentanalysis.streamlit.app)
+🚀 **Live Dashboard**: [Check out the Streamlit App!](https://sm-sentimentanalysis.streamlit.app)
 
 ## **Project Contents**
-- **Data Collection**: Scraped Reddit posts to uncover patterns in user reactions and discussions.
-- **Sentiment Analysis**: Leveraging VADER to score posts as positive, neutral, or negative.
+- **Data Collection**: Scraped Reddit posts to uncover patterns in user reactions and discussions
+- **Sentiment Analysis**: Leveraging VADER to score posts as positive, neutral, or negative
 - **Visualizations**:
-  - Word clouds for popular keywords and topics.
-  - Sentiment breakdowns by post popularity (score, comments, etc.).
+  - Word clouds for popular keywords and topics
+  - Sentiment breakdowns by post popularity (score, comments, etc.)
 - **Key Questions Answered**:
   - How does sentiment change during major events?
   - What words and phrases dominate positive or negative conversations?
@@ -21,15 +20,15 @@ How does social media reflect public sentiment about trending topics, brands, or
 ---
 
 ## **Why We Care**
-- Social media data gives real-time insight into public opinion.
-- Sentiment analysis connects deeply with industries like marketing, politics, and media.
-- This project is a hands-on opportunity to sharpen skills in text analysis, visualization, and storytelling.
+- Social media data gives real-time insight into public opinion
+- Sentiment analysis connects deeply with industries like marketing, politics, and media
+- This project is a hands-on opportunity to sharpen skills in text analysis, visualization, and storytelling
 
 ---
 
 ## **Tech Stack**
 This project is built with user-friendliness in mind while being flexible for advanced exploration:
-- **Data Collection**: Reddit posts loaded from CSV files.
+- **Data Collection**: Reddit posts loaded from CSV files
 - **Data Cleaning & Analysis**: pandas, regex
 - **Sentiment Analysis**: VADER (Valence Aware Dictionary and sEntiment Reasoner)
 - **Visualizations**: matplotlib, seaborn, wordcloud
