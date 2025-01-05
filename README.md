@@ -1,36 +1,38 @@
-## **Social Media Sentiment Trends**
+# **Social Media Sentiment Trends**
 
-### **About This Project**
-Have you ever wondered how people feel about trending topics, brands, or events on social media? This project dives into that question by analyzing sentiment trends over time. Using data from platforms like Twitter or Reddit, we explore how public opinion changes during major events, product launches, or announcements!
+## **About This Project**
+Ever wondered how social media reflects public sentiment about trending topics, brands, or major events? This project dives deep into analyzing sentiment trends using data from platforms like Reddit. Whether it's a product launch, a controversial event, or an unexpected meme explosion, this project reveals the emotional pulse of the internet.
 
 ---
 
-🚀 **Live Dashboard**: [View the Streamlit App](https://sm-sentimentanalysis.streamlit.app)
+🚀 **Live Dashboard**: [Check Out the Streamlit App](https://sm-sentimentanalysis.streamlit.app)
 
-### **What You’ll Find Here**
-- **Data Cleaning**: Removing the clutter like URLs, hashtags, and emojis to get to the heart of the conversation.
-- **Sentiment Analysis**: Using tools like VADER and TextBlob to measure how positive, neutral, or negative posts are.
-- **Visualizations**: Time-series charts, word clouds, and sentiment breakdowns that make the data come alive.
+## **What You’ll Find Here**
+- **Data Collection**: Scraped Reddit posts to uncover patterns in user reactions and discussions.
+- **Sentiment Analysis**: Leveraging VADER to score posts as positive, neutral, or negative.
+- **Visualizations**:
+  - Word clouds for popular keywords and topics.
+  - Sentiment breakdowns by post popularity (score, comments, etc.).
 - **Key Questions Answered**:
-  - How do emotions shift during big moments (like a product launch)?
-  - Are mornings happier on social media than evenings?
-  - What words and hashtags show up in positive or negative posts?
+  - How does sentiment change during major events?
+  - What words and phrases dominate positive or negative conversations?
 
 ---
 
-### **Why It’s Interesting**
-- Social media is real-time and dynamic, which is what makes it so exciting work with.
-- Sentiment analysis ties directly into real-world topics like marketing, entertainment, and politics.
-- You’ll learn hands-on skills in text processing, data visualization, and time-series analysis.
+## **Why It’s Interesting**
+- Social media data gives real-time insight into public opinion.
+- Sentiment analysis connects deeply with industries like marketing, politics, and media.
+- This project is a hands-on opportunity to sharpen skills in text analysis, visualization, and storytelling.
 
 ---
 
-### **Tech Stack**
-This project is beginner-friendly and built with Python. Here’s what we’re using:
-- **Data Cleaning & Analysis**: `pandas`, `numpy`
-- **Text Analysis**: `nltk`, `spaCy`, `TextBlob`, `VADER`
-- **Visualizations**: `matplotlib`, `seaborn`, `wordcloud`
-- **Data Collection**: `snscrape` or `tweepy` for getting social media posts
+## **Tech Stack**
+This project is built with user-friendliness in mind while being flexible for advanced exploration:
+- **Data Collection**: Reddit posts loaded from CSV files.
+- **Data Cleaning & Analysis**: pandas, regex
+- **Sentiment Analysis**: VADER (Valence Aware Dictionary and sEntiment Reasoner)
+- **Visualizations**: matplotlib, seaborn, wordcloud
+- **Dashboard**: Streamlit for interactive and dynamic insights
 
 ---
 
@@ -45,7 +47,13 @@ This project is beginner-friendly and built with Python. Here’s what we’re u
    pip install -r requirements.txt
    ```
 3. **Run the Code**:
-   Follow the instructions in the scripts to collect data, clean it up, and generate some the insights!
+   ```bash
+   # preprocess and perform sentiment analysis
+   python analysis.ipynb
+
+   # run the Streamlit dashboard
+   streamlit run ui.py
+   ```
 
 ---
 
