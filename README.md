@@ -1,13 +1,13 @@
 # **Social Media Sentiment Trends**
 
 ## **About This Project**
-Ever wondered how social media reflects public sentiment about trending topics, brands, or major events? This project dives deep into analyzing sentiment trends using data from platforms like Reddit. Whether it's a product launch, a controversial event, or an unexpected meme explosion, this project reveals the emotional pulse of the internet.
+How does social media reflect public sentiment about trending topics, brands, or major events? This project efficiently analyzes sentiment trends using data from platforms like Reddit, to show how the public reviews and reacts to global events and ideas. 
 
 ---
 
 🚀 **Live Dashboard**: [Check Out the Streamlit App](https://sm-sentimentanalysis.streamlit.app)
 
-## **What You’ll Find Here**
+## **Project Contents**
 - **Data Collection**: Scraped Reddit posts to uncover patterns in user reactions and discussions.
 - **Sentiment Analysis**: Leveraging VADER to score posts as positive, neutral, or negative.
 - **Visualizations**:
@@ -19,7 +19,7 @@ Ever wondered how social media reflects public sentiment about trending topics, 
 
 ---
 
-## **Why It’s Interesting**
+## **Why We Care**
 - Social media data gives real-time insight into public opinion.
 - Sentiment analysis connects deeply with industries like marketing, politics, and media.
 - This project is a hands-on opportunity to sharpen skills in text analysis, visualization, and storytelling.
