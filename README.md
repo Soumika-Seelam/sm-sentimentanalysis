@@ -42,11 +42,16 @@ This project is built with user-friendliness in mind while being flexible for ad
    git clone https://github.com/soumika-seelam/social-media-sentiment-trends.git
    cd sm-sentimentanalysis
    ```
-2. **Install the Tools**:
+2. **Create Virtual Environment**:
+   ```bash
+   # Localize Imports and Downloads to Avoid Dependency Errors
+   
+   ```
+3. **Install the Tools**:
    ```bash
    pip install -r requirements.txt
    ```
-3. **Run the Code**:
+4. **Run the Code**:
    ```bash
    # preprocess and perform sentiment analysis
    python analysis.ipynb
